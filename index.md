@@ -84,10 +84,10 @@ Transcript: There was unrestrained association of untried and convicted, juvenil
 
 ### Generalization to Diverse Datasets 
 
-Guided-TTS does NOT use any transcript of untranscribed datasets.
+Guided-TTS does NOT use any transcript of untranscribed datasets. <br>
 Grad-TTS-ASR: Grad-TTS trained on paired dataset with ASR generated transcript.
 
-1. Untranscribed speech data: LJSpeech
+#### 1. Untranscribed speech data: LJSpeech
 
 Transcript: Nor did the methods by which they were perpetrated greatly vary from those in times past.
 <table>
@@ -149,7 +149,7 @@ Transcript: There was unrestrained association of untried and convicted, juvenil
 	</tbody>
 </table>
 
-2. Untranscribed speech data: Hi-Fi TTS (ID: 92)
+#### 2. Untranscribed speech data: Hi-Fi TTS (ID: 92)
 
 Transcript: The other, without flinching, lowered and raised his head slowly.
 <table>
@@ -211,7 +211,7 @@ Transcript: For him the plain duty is to fasten the guilt upon as many prominent
 	</tbody>
 </table>
 
-3. Untranscribed speech data: Hi-Fi TTS (ID: 6097)
+#### 3. Untranscribed speech data: Hi-Fi TTS (ID: 6097)
 
 Transcript: Any river is deep enough to drown a fool
 <table>
@@ -273,7 +273,7 @@ Transcript: The reduction of expense which would result from this appointment wo
 	</tbody>
 </table>
 
-4. Untranscribed speech data: Hi-Fi TTS (ID: 9017)
+#### 4. Untranscribed speech data: Hi-Fi TTS (ID: 9017)
 
 Transcript: Who is to be master of the world?
 <table>
@@ -335,7 +335,7 @@ Transcript: No, but I have just met with a terrible adventure!
 	</tbody>
 </table>
 
-5. Untranscribed speech data: Blizzard 2013
+#### 5. Untranscribed speech data: Blizzard 2013
 
 Transcript: Crawford's is no common attachment he perseveres, with the hope of creating that regard, which had not been created before.
 <table>
@@ -394,7 +394,7 @@ Transcript: There may be some old woman at Thornton Lacey to be converted.
 
 ### Analysis on the effect of norm-based guidance
 
-<a href=https://arxiv.org/abs/2105.05233>Classifier guidance</a> v.s. Norm-based guidance
+<a href="https://arxiv.org/abs/2105.05233">Classifier guidance</a> v.s. Norm-based guidance
 
 Norm-based guidance method with the appropriate gradient scale (s=0.3~0.4) helps accurately generate samples given text sentences. 
 
