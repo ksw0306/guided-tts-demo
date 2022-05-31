@@ -1,5 +1,7 @@
 ## Guided-TTS: A Diffusion Model for Text-to-Speech via Classifier Guidance (ICML 2022)
 
+<a href="https://arxiv.org/abs/2111.11755">Arxiv</a>
+
 ### Authors
 - Heeseung Kim (*Equal contribution) <a href="gmltmd789@snu.ac.kr">gmltmd789@snu.ac.kr</a>
 - Sungwon Kim (*Equal contribution) <a href="ksw930306@snu.ac.kr">ksw0306@snu.ac.kr</a>
