@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+title: "Guided-TTS: A Diffusion Model for Text-to-Speech via Classifier Guidance"
+github:
+  is_project_page: false
